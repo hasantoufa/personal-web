@@ -1,0 +1,98 @@
+body{
+
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.half-weith{
+
+    width: 40%;
+    float: left;
+    padding-left: 2%;
+    margin-left: 5%;
+
+}
+
+.half-weith img{
+
+    width: 100%;
+}
+
+section{
+
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.name-highlight{
+
+    color: orangered;
+    font-size: 40px;
+}
+.btn{
+
+    background-color: rgb(250, 162, 146);
+    border-radius: 5px;
+   
+}
+.click{
+
+    font-size: 20px;
+
+    text-decoration: none;
+}
+.top-banner{
+
+    background-image: url("images/header-bg.png");
+    
+}
+.work{
+
+    text-align: center;
+}
+.latest-work{
+
+    width: 30%;
+    float: left;
+    padding-left: 2%;
+   
+    
+}
+.latest-work img{
+
+    width: 100%;
+}
+.l-work{
+
+
+    background-image: url("images/header-bg.png");
+}
+.text-pa{
+
+    text-align: center;
+}
+.ceo{
+
+    font-size: xx-small;
+}
+
+.last{
+
+    height: 130px;
+    width: 500px;
+    background-color: tomato;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px;
+    
+}
+.email{
+
+    color: white;
+    font-size: 30px;
+}
+
+footer p{
+
+    font-size:small;
+    text-align: center;
+}
